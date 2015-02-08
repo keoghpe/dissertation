@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.24)  4 NOV 2014 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.24)  3 FEB 2015 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -847,7 +847,7 @@ Chapter 2.
 ------------------------------------------------------------------------------
  2 Literature Review
 ------------------------------------------------------------------------------
-<Pictures/mindmap.png, id=345, 1762.585pt x 1860.9525pt>
+<Pictures/mindmap.png, id=347, 1762.585pt x 1860.9525pt>
 File: Pictures/mindmap.png Graphic file (type png)
 
 <use Pictures/mindmap.png>
@@ -920,7 +920,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 294.
 Here is how much of TeX's memory you used:
  13121 strings out of 493117
  183961 string characters out of 6135433
- 255305 words of memory out of 5000000
+ 255293 words of memory out of 5000000
  16292 multiletter control sequences out of 15000+600000
  14728 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -935,10 +935,10 @@ r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr
 local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/lo
 cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on main.pdf (27 pages, 461572 bytes).
+Output written on main.pdf (27 pages, 460543 bytes).
 PDF statistics:
- 469 PDF objects out of 1000 (max. 8388607)
- 423 compressed objects within 5 object streams
+ 470 PDF objects out of 1000 (max. 8388607)
+ 424 compressed objects within 5 object streams
  90 named destinations out of 1000 (max. 500000)
  414 words of extra memory for PDF output out of 10000 (max. 10000000)
 
