@@ -1,0 +1,5 @@
+fswatch -0  ./*.tex ./**/*.tex | while read -d "" event
+do
+  echo "$event changed. Making pdf."
+  pdflatex main.tex && open main.pdf
+done

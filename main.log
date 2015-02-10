@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.24)  10 FEB 2015 09:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.24)  10 FEB 2015 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -848,45 +848,61 @@ Chapter 2.
 ------------------------------------------------------------------------------
 [5
 
-]) (./Chapters/Chapter3.tex [6]
+] [6] [7]
+<Pictures/argumentationframework.png, id=432, 352.31625pt x 292.09125pt>
+File: Pictures/argumentationframework.png Graphic file (type png)
+
+<use Pictures/argumentationframework.png>
+Package pdftex.def Info: Pictures/argumentationframework.png used on input line
+ 94.
+(pdftex.def)             Requested size: 208.73653pt x 173.05435pt.
+
+<Pictures/defeatrelations.png, id=434, 225.84375pt x 72.27pt>
+File: Pictures/defeatrelations.png Graphic file (type png)
+
+<use Pictures/defeatrelations.png>
+Package pdftex.def Info: Pictures/defeatrelations.png used on input line 104.
+(pdftex.def)             Requested size: 208.73653pt x 66.79906pt.
+ [8 <./Pictures/argumentationframework.png> <./Pictures/defeatrelations.png>]) 
+(./Chapters/Chapter3.tex [9] [10]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Design
 ------------------------------------------------------------------------------
-[7
+[11
 
-]) (./Chapters/Chapter4.tex [8]
+]) (./Chapters/Chapter4.tex [12]
 Chapter 4.
 ------------------------------------------------------------------------------
  4 Experiment
 ------------------------------------------------------------------------------
-[9
+[13
 
-]) (./Chapters/Chapter5.tex [10]
+]) (./Chapters/Chapter5.tex [14]
 Chapter 5.
 ------------------------------------------------------------------------------
  5 Evaluation
 ------------------------------------------------------------------------------
-[11
+[15
 
-]) (./Chapters/Chapter6.tex [12]
+]) (./Chapters/Chapter6.tex [16]
 Chapter 6.
 ------------------------------------------------------------------------------
  6 Conclusions and Future Work
 ------------------------------------------------------------------------------
-[13
+[17
 
 ]
 
-Package natbib Warning: Citation `Reference2' on page 14 undefined on input lin
+Package natbib Warning: Citation `Reference2' on page 18 undefined on input lin
 e 37.
 
-) (./Appendices/AppendixA.tex [14]
+) (./Appendices/AppendixA.tex [18]
 Appendix A.
 ------------------------------------------------------------------------------
  A Appendix Title Here
 ------------------------------------------------------------------------------
-) [15
+) [19
 
 ]
 ------------------------------------------------------------------------------
@@ -897,7 +913,7 @@ Appendix A.
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
-[16
+[20
 
 
 ]
@@ -906,15 +922,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 294.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 294.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0430041907D5BE53D4E4B07E1A2F6F32;8543.
+(rerunfilecheck)             Checksum: 29CD62CF89F446D2BDC3745819D54C34;10079.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 294.
  ) 
 Here is how much of TeX's memory you used:
- 13125 strings out of 493117
- 183962 string characters out of 6135433
- 256293 words of memory out of 5000000
- 16292 multiletter control sequences out of 15000+600000
- 14427 words of font info for 53 fonts, out of 8000000 for 9000
+ 13159 strings out of 493117
+ 184599 string characters out of 6135433
+ 257295 words of memory out of 5000000
+ 16310 multiletter control sequences out of 15000+600000
+ 14728 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,11n,45p,894b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -927,10 +943,10 @@ r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr
 local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/lo
 cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on main.pdf (27 pages, 184037 bytes).
+Output written on main.pdf (31 pages, 414256 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 461 compressed objects within 5 object streams
- 97 named destinations out of 1000 (max. 500000)
- 473 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 563 PDF objects out of 1000 (max. 8388607)
+ 510 compressed objects within 6 object streams
+ 109 named destinations out of 1000 (max. 500000)
+ 531 words of extra memory for PDF output out of 10000 (max. 10000000)
 
