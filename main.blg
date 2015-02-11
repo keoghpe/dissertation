@@ -3,49 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: unsrtnat.bst
 Database file #1: Bibliography.bib
-Warning--string name "http://www.sciencedirect.com/science/article/pii/s0959802200000084" is undefined
---line 21 of file Bibliography.bib
 Warning--I didn't find a database entry for "Reference2"
-Warning--empty year in Interview2
-You've used 4 entries,
+You've used 2 entries,
             2481 wiz_defined-function locations,
-            587 strings with 5622 characters,
-and the built_in function-call counts, 1836 in all, are:
-= -- 161
-> -- 96
-< -- 2
-+ -- 36
-- -- 28
-* -- 160
-:= -- 295
-add.period$ -- 15
-call.type$ -- 4
-change.case$ -- 8
-chr.to.int$ -- 4
-cite$ -- 5
-duplicate$ -- 83
-empty$ -- 153
-format.name$ -- 34
-if$ -- 381
+            564 strings with 4781 characters,
+and the built_in function-call counts, 689 in all, are:
+= -- 55
+> -- 28
+< -- 1
++ -- 12
+- -- 8
+* -- 48
+:= -- 112
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 4
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 33
+empty$ -- 69
+format.name$ -- 10
+if$ -- 141
 int.to.chr$ -- 1
-int.to.str$ -- 5
-missing$ -- 4
-newline$ -- 31
-num.names$ -- 12
-pop$ -- 29
+int.to.str$ -- 3
+missing$ -- 1
+newline$ -- 17
+num.names$ -- 6
+pop$ -- 20
 preamble$ -- 1
-purify$ -- 4
+purify$ -- 2
 quote$ -- 0
-skip$ -- 46
+skip$ -- 23
 stack$ -- 0
-substring$ -- 107
-swap$ -- 19
-text.length$ -- 1
+substring$ -- 29
+swap$ -- 4
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 28
-warning$ -- 1
-while$ -- 17
+type$ -- 14
+warning$ -- 0
+while$ -- 6
 width$ -- 0
-write$ -- 65
-(There were 3 warnings)
+write$ -- 30
+(There was 1 warning)

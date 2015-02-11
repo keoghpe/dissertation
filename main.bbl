@@ -1,43 +1,21 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{2}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Karlssona et~al.(2007)Karlssona, Åsa G.~Dahlstedtb, Regnella, och
-  Daga, and Perssonb]{Interview1}
-Lena Karlssona, Åsa G.~Dahlstedtb, Björn Regnella, Johan~Natt och Daga, and
-  Anne Perssonb.
-\newblock Requirements engineering challenges in market-driven software
-  development – an interview study with practitioners.
-\newblock \emph{Information and Software Technology}, 49:\penalty0 588--604,
-  June 2007.
-\newblock URL
-  \url{http://www.sciencedirect.com/science/article/pii/S0950584907000183}.
+\bibitem[Kotsiantis et~al.(2007)Kotsiantis, Zaharakis, and
+  Pintelas]{kotsiantis2007supervised}
+Sotiris~B Kotsiantis, I~Zaharakis, and P~Pintelas.
+\newblock Supervised machine learning: A review of classification techniques,
+  2007.
 
-\bibitem[Nicholson and Sahay()]{Interview2}
-Brian Nicholson and Sundeep Sahay.
-\newblock Some political and cultural issues in the globalisation of software
-  development: case experience from britain and india.
-\newblock \emph{Information and Organization}, 11:\penalty0 25--43, January .
-
-\bibitem[Hertel et~al.(2003)Hertel, Niedner, and Herrmann]{Questionnaire1}
-Guido Hertel, Sven Niedner, and Stefanie Herrmann.
-\newblock Motivation of software developers in open source projects: an
-  internet-based survey of contributors to the linux kernel.
-\newblock \emph{Open Source Software Development}, 23\penalty0 (7):\penalty0
-  1159--1177, July 2003.
-\newblock URL
-  \url{http://www.sciencedirect.com/science/article/pii/S0048733303000477}.
-
-\bibitem[Herbsleb et~al.(2001)Herbsleb, Mockus, Finholt, and
-  Grinter]{Questionnaire2}
-James~D. Herbsleb, Audris Mockus, Thomas~A. Finholt, and Rebecca~E. Grinter.
-\newblock An empirical study of global software development: distance and
-  speed.
-\newblock \emph{ICSE '01 Proceedings of the 23rd International Conference on
-  Software Engineering}, pages 81--90, July 2001.
-\newblock URL \url{http://dl.acm.org/citation.cfm?id=381481}.
+\bibitem[Murthy(1998)]{murthy1998automatic}
+Sreerama~K Murthy.
+\newblock Automatic construction of decision trees from data: A
+  multi-disciplinary survey.
+\newblock \emph{Data mining and knowledge discovery}, 2\penalty0 (4):\penalty0
+  345--389, 1998.
 
 \end{thebibliography}

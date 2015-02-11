@@ -11,61 +11,53 @@
 \vspace {2em}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.13}
 \contentsline {section}{\numberline {1.1}Project Background}{1}{section.14}
-\contentsline {subsection}{\numberline {1.1.1}Subsection 1}{1}{subsection.15}
-\contentsline {subsection}{\numberline {1.1.2}Subsection 2}{1}{subsection.16}
-\contentsline {section}{\numberline {1.2}Project Description}{2}{section.17}
-\contentsline {section}{\numberline {1.3}Research Aims and Objectives}{2}{section.18}
-\contentsline {subsection}{\numberline {1.3.1}Subsection 1}{2}{subsection.19}
-\contentsline {subsection}{\numberline {1.3.2}Subsection 2}{2}{subsection.20}
-\contentsline {section}{\numberline {1.4}Research Methods}{3}{section.21}
-\contentsline {subsection}{\numberline {1.4.1}Subsection 1}{3}{subsection.22}
-\contentsline {subsection}{\numberline {1.4.2}Subsection 2}{3}{subsection.23}
-\contentsline {section}{\numberline {1.5}Scope and Limitations}{3}{section.24}
-\contentsline {subsection}{\numberline {1.5.1}Subsection 1}{4}{subsection.25}
-\contentsline {subsection}{\numberline {1.5.2}Subsection 2}{4}{subsection.26}
-\contentsline {section}{\numberline {1.6}Organisation of Dissertation}{4}{section.27}
-\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.28}
-\contentsline {section}{\numberline {2.1}Introduction}{5}{section.29}
-\contentsline {section}{\numberline {2.2}Machine Learning}{5}{section.30}
-\contentsline {section}{\numberline {2.3}Supervised Learning}{6}{section.31}
-\contentsline {subsection}{\numberline {2.3.1}Regression}{6}{subsection.32}
-\contentsline {subsection}{\numberline {2.3.2}Decision Tables}{6}{subsection.33}
-\contentsline {subsection}{\numberline {2.3.3}Bayesian Networks}{6}{subsection.34}
-\contentsline {subsection}{\numberline {2.3.4}Artificial Neural Networks}{6}{subsection.35}
-\contentsline {subsection}{\numberline {2.3.5}Decision Tree Learning}{7}{subsection.36}
-\contentsline {subsection}{\numberline {2.3.6}Support Vector Machines}{7}{subsection.37}
-\contentsline {section}{\numberline {2.4}Unsupervised Learning}{7}{section.38}
-\contentsline {subsection}{\numberline {2.4.1}Clustering}{7}{subsection.39}
-\contentsline {subsection}{\numberline {2.4.2}K-means}{7}{subsection.40}
-\contentsline {section}{\numberline {2.5}Argumentation Theory}{7}{section.41}
-\contentsline {subsection}{\numberline {2.5.1}Non-Monotonic Reasoning}{7}{subsection.42}
-\contentsline {subsection}{\numberline {2.5.2}Defeasible Reasoning}{7}{subsection.43}
-\contentsline {subsection}{\numberline {2.5.3}Argumentation Theory in AI}{8}{subsection.44}
-\contentsline {subsection}{\numberline {2.5.4}Argumentation Theory Implementations}{8}{subsection.47}
-\contentsline {section}{\numberline {2.6}Conclusions}{10}{section.48}
-\contentsline {chapter}{\numberline {3}Design}{11}{chapter.49}
-\contentsline {section}{\numberline {3.1}Introducion}{11}{section.50}
-\contentsline {subsection}{\numberline {3.1.1}Subsection 1}{11}{subsection.51}
-\contentsline {subsection}{\numberline {3.1.2}Subsection 2}{11}{subsection.52}
-\contentsline {section}{\numberline {3.2}Methodologies}{12}{section.53}
-\contentsline {section}{\numberline {3.3}Conclusions}{12}{section.54}
-\contentsline {chapter}{\numberline {4}Experiment}{13}{chapter.55}
-\contentsline {section}{\numberline {4.1}Introduction}{13}{section.56}
-\contentsline {subsection}{\numberline {4.1.1}Subsection 1}{13}{subsection.57}
-\contentsline {subsection}{\numberline {4.1.2}Subsection 2}{13}{subsection.58}
-\contentsline {section}{\numberline {4.2}Conclusions}{14}{section.59}
-\contentsline {chapter}{\numberline {5}Evaluation}{15}{chapter.60}
-\contentsline {section}{\numberline {5.1}Evaluation}{15}{section.61}
-\contentsline {subsection}{\numberline {5.1.1}Subsection 1}{15}{subsection.62}
-\contentsline {subsection}{\numberline {5.1.2}Subsection 2}{15}{subsection.63}
-\contentsline {section}{\numberline {5.2}Conclusions}{16}{section.64}
-\contentsline {chapter}{\numberline {6}Conclusions and Future Work}{17}{chapter.65}
-\contentsline {section}{\numberline {6.1}Introduction}{17}{section.66}
-\contentsline {subsection}{\numberline {6.1.1}Subsection 1}{17}{subsection.67}
-\contentsline {subsection}{\numberline {6.1.2}Subsection 2}{17}{subsection.68}
-\contentsline {section}{\numberline {6.2}Conclusions}{18}{section.69}
-\contentsline {section}{\numberline {6.3}Future Work}{18}{section.70}
+\contentsline {section}{\numberline {1.2}Research Aims and Objectives}{2}{section.15}
+\contentsline {section}{\numberline {1.3}Research Methods}{2}{section.16}
+\contentsline {section}{\numberline {1.4}Scope and Limitations}{2}{section.17}
+\contentsline {section}{\numberline {1.5}Organisation of Thesis}{3}{section.18}
+\contentsline {chapter}{\numberline {2}Literature Review}{4}{chapter.19}
+\contentsline {section}{\numberline {2.1}Introduction}{4}{section.20}
+\contentsline {section}{\numberline {2.2}Machine Learning}{4}{section.21}
+\contentsline {section}{\numberline {2.3}Supervised Learning}{5}{section.22}
+\contentsline {subsection}{\numberline {2.3.1}Regression}{5}{subsection.23}
+\contentsline {subsection}{\numberline {2.3.2}Decision Tables}{5}{subsection.24}
+\contentsline {subsection}{\numberline {2.3.3}Bayesian Networks}{5}{subsection.25}
+\contentsline {subsection}{\numberline {2.3.4}Artificial Neural Networks}{6}{subsection.26}
+\contentsline {subsection}{\numberline {2.3.5}Decision Tree Learning}{6}{subsection.27}
+\contentsline {subsection}{\numberline {2.3.6}Support Vector Machines}{6}{subsection.28}
+\contentsline {section}{\numberline {2.4}Unsupervised Learning}{6}{section.29}
+\contentsline {subsection}{\numberline {2.4.1}Clustering}{6}{subsection.30}
+\contentsline {subsection}{\numberline {2.4.2}K-means}{6}{subsection.31}
+\contentsline {section}{\numberline {2.5}Argumentation Theory}{6}{section.32}
+\contentsline {subsection}{\numberline {2.5.1}Non-Monotonic Reasoning}{6}{subsection.33}
+\contentsline {subsection}{\numberline {2.5.2}Defeasible Reasoning}{7}{subsection.34}
+\contentsline {subsection}{\numberline {2.5.3}Argumentation Theory in AI}{7}{subsection.35}
+\contentsline {subsection}{\numberline {2.5.4}Semantics}{8}{subsection.38}
+\contentsline {subsection}{\numberline {2.5.5}Argumentation Theory Implementations}{8}{subsection.39}
+\contentsline {section}{\numberline {2.6}Conclusions}{9}{section.40}
+\contentsline {chapter}{\numberline {3}Design}{10}{chapter.41}
+\contentsline {section}{\numberline {3.1}Introducion}{10}{section.42}
+\contentsline {subsection}{\numberline {3.1.1}Subsection 1}{10}{subsection.43}
+\contentsline {subsection}{\numberline {3.1.2}Subsection 2}{10}{subsection.44}
+\contentsline {section}{\numberline {3.2}Methodologies}{11}{section.45}
+\contentsline {section}{\numberline {3.3}Conclusions}{11}{section.46}
+\contentsline {chapter}{\numberline {4}Experiment}{12}{chapter.47}
+\contentsline {section}{\numberline {4.1}Introduction}{12}{section.48}
+\contentsline {subsection}{\numberline {4.1.1}Subsection 1}{12}{subsection.49}
+\contentsline {subsection}{\numberline {4.1.2}Subsection 2}{12}{subsection.50}
+\contentsline {section}{\numberline {4.2}Conclusions}{13}{section.51}
+\contentsline {chapter}{\numberline {5}Evaluation}{14}{chapter.52}
+\contentsline {section}{\numberline {5.1}Evaluation}{14}{section.53}
+\contentsline {subsection}{\numberline {5.1.1}Subsection 1}{14}{subsection.54}
+\contentsline {subsection}{\numberline {5.1.2}Subsection 2}{14}{subsection.55}
+\contentsline {section}{\numberline {5.2}Conclusions}{15}{section.56}
+\contentsline {chapter}{\numberline {6}Conclusions and Future Work}{16}{chapter.57}
+\contentsline {section}{\numberline {6.1}Introduction}{16}{section.58}
+\contentsline {subsection}{\numberline {6.1.1}Subsection 1}{16}{subsection.59}
+\contentsline {subsection}{\numberline {6.1.2}Subsection 2}{16}{subsection.60}
+\contentsline {section}{\numberline {6.2}Conclusions}{17}{section.61}
+\contentsline {section}{\numberline {6.3}Future Work}{17}{section.62}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{19}{appendix.71}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{18}{appendix.63}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{20}{dummy.72}
+\contentsline {chapter}{Bibliography}{19}{dummy.64}

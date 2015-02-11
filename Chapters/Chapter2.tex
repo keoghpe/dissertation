@@ -21,8 +21,6 @@
 %-----------------------------------
 \section{Machine Learning}
 
-Supervised learning can be contrasted with unsupervised learning in which the algorithm attempts to find patterns in the data, as opposed to making predictions.
-
 Mitchell (2006) defines machine learning as a field of computer science that attempts to solve the question:
 
 “How can we build computer systems that automatically improve with experience, and what
@@ -31,9 +29,13 @@ are the fundamental laws that govern all learning processes?”
 Mitchell outlines that while there had been no successful commercial applications of machine learning as late as 1985, it has since been successfully applied in diverse fields such as speech recognition, computer vision, bio-surveillance, robot control and accelerating empirical sciences.
 
 The literature makes the distinction between different learning scenarios. Alpaydin (2004) explains that ‘supervised learning’ happens in a scenario in which the task of the algorithm is to learn the mapping from some input X to an output Y. Examples of supervised learning problems include regression and classification. This could be contrasted with unsupervised learning; described by Mohri, Rostamizadeh and Talwalkar (2012) as problems in which “the learner receives unlabelled training data and makes predictions for all unseen points.” Examples of supervised learning problems include clustering and dimensionality reduction.
+Also reinforcement learning.
 
 
 \section{Supervised Learning}
+
+Kotsiantis\cite{kotsiantis2007supervised} provides a review of supervised learning classification techniques. "known labels (the corresponding correct outputs) then the learning is called supervised"
+
 
 Ng (2000) explains that supervised learning algorithms can be divided in regression problems (when the output to be predicted is continuous) and classification problems (when the output to be predicted is discrete). Linear and logistic regression are two machine learning techniques for solving these kinds of supervised learning problems.
 
@@ -47,6 +49,18 @@ Regularisation
 \subsection{Decision Tables}
 
 Kohavi (1995) proposed decisions tables as a representation for hypothesis in order to solve supervised machine learning problems.
+Kohavi provides a comparison of machine learning techniques.
+In the absence of an expert data must be collected in a brute force fashion. Problems: noise, missing values, irrelevant input features.
+"Once preliminary testing is judged to be satisfactory the classifier (mapping from unlabeled instances to classes) is available for routine use"
+"Three techniques to assess accuracy: split training set, cross fold validation, leave-one-out validation".
+
+Logic Based Algorithms  - Decision Trees, Rule based classifiers
+
+Perceptron-Based Algorithms - Neural Networks
+
+Statistical Learning Algorithms - Baysian Networks
+
+Support Vector MAchines
 
 \subsection{Bayesian Networks}
 
@@ -58,9 +72,13 @@ The state of the art in machine learning is “deep” learning, currently being
 
 \subsection{Decision Tree Learning}
 
+Murthy\cite{murthy1998automatic} decision trees
+
 \subsection{Support Vector Machines}
 
 \section{Unsupervised Learning}
+
+Unlabeled data (no corresponding correct outputs)
 
 \subsection{Clustering}
 
@@ -103,6 +121,8 @@ Within an argumentation framework an argument A can become inadmissible if it is
 \centering
 \includegraphics[width=0.5\textwidth]{defeatrelations}
 \end{figure}
+
+\subsection{Semantics}
 
 \subsection{Argumentation Theory Implementations}
 

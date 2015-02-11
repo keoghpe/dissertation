@@ -1,5 +1,9 @@
 fswatch -0  ./*.tex ./**/*.tex | while read -d "" event
 do
-  echo "$event changed. Making pdf."
-  pdflatex main.tex && open main.pdf
+  bibtex main && pdflatex main.tex && open main.pdf
+
+  echo "Performing word count."
+
+  ps2ascii main.pdf | wc -w
+  echo "Latest draft generated as a result of changes to: $event"
 done
